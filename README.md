@@ -1,2 +1,2 @@
 # bookbot
-Bookbot is my best friend and I hope you will love him too.
+Bookbot is a part of my learning experience on Github. Please disregard this project.
